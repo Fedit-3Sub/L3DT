@@ -1,0 +1,13 @@
+D:\SH_PUBLISH\VIZToHMF\bin\Debug\VIZToHMF.exe
+D:\SH_PUBLISH\VIZToHMF\bin\Debug\VIZToHMF.pdb
+D:\SH_PUBLISH\VIZToHMF\bin\Debug\VIZCore3D.NET.dll
+D:\SH_PUBLISH\VIZToHMF\bin\Debug\VIZCore3D.NET.xml
+D:\SH_PUBLISH\VIZToHMF\obj\Debug\VIZToHMF.csproj.AssemblyReference.cache
+D:\SH_PUBLISH\VIZToHMF\obj\Debug\VIZToHMF.Properties.Resources.resources
+D:\SH_PUBLISH\VIZToHMF\obj\Debug\VIZToHMF.csproj.GenerateResource.cache
+D:\SH_PUBLISH\VIZToHMF\obj\Debug\VIZToHMF.csproj.CoreCompileInputs.cache
+D:\SH_PUBLISH\VIZToHMF\obj\Debug\VIZToHMF.csproj.Up2Date
+D:\SH_PUBLISH\VIZToHMF\obj\Debug\VIZToHMF.exe
+D:\SH_PUBLISH\VIZToHMF\obj\Debug\VIZToHMF.pdb
+D:\SH_PUBLISH\VIZToHMF\obj\Debug\VIZToHMF.HMFForm.resources
+D:\SH_PUBLISH\VIZToHMF\bin\Debug\VIZCore3D.NET.Interop.dll
